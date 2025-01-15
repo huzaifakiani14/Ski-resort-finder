@@ -1,3 +1,25 @@
+# Ski Resort Finder
+
+**Ski Resort Finder** is an application designed to help users locate the best ski resorts near them. The app aims to provide a user-friendly interface where users can input their city or state and get a list of top ski resorts nearby. The project is a work in progress and is built with a focus on improving accessibility and convenience for ski enthusiasts.
+
+## Current Status
+
+The app is currently at the stage where we need to integrate the **Google Places API** to allow users to find the nearest ski locations based on their input. While some features are already in place, there is still work to be done to make the app fully functional.
+
+## How You Can Help
+
+I would love for others to contribute to this project and help bring it to completion! Here are some areas where contributions would be incredibly helpful:
+- Integrating the Google Places API for location-based search functionality.
+- Improving the user interface and overall design.
+- Adding additional features such as filters for resort ratings, distance, or amenities.
+
+## How to Contribute
+
+If you'd like to contribute:
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a description of the changes you've made.
+4. Please feel free to contact me at huzaifakiani014@gmail.com
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
